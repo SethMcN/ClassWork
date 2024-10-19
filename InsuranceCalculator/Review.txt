@@ -1,0 +1,5 @@
+I believe my program have many features like encrypting and writing to text file I added this to develop an understanding 
+on data protection and real-life data storage (however data is probably added to some form of 2D data base instead of a text file). 
+I believe it meets the required specifications for the prompt. To improve I could condense the program and perhaps make it more 
+efficient, I could perhaps also do a more thorough commenting and documentation of how the program works so other would be able to 
+understand it easier. General weakness for my program would probably be slightly different ways people input the
