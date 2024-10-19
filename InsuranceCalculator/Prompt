@@ -1,0 +1,24 @@
+Insurance Premium Calculator Exercise  
+
+Create a Python program to calculate insurance premiums for drivers based on various factors. Your program should interact with the user to gather the following information:  
+
+  1. Age: Please input your age as an integer.  
+  2. Gender: Please input your gender as a single character ('M' for male, 'F' for female).  
+  3. Number of previous accidents: Please input the number of accidents you've been involved in as an integer.  
+  4. Years of driving experience: Please input the number of years you've been driving as an integer.  
+  5. No claims bonus: Please input your no claims bonus in years as an integer.  
+  6. Type of car: Please input the type of car you drive (e.g., sedan, SUV) as a string.  
+
+Your task is to calculate the insurance premium based on the following criteria:  
+
+  - Start with a base premium of £500.  
+  - If you are under 25 years old, add £100 to the premium. If you are over 65, add £50 to the premium.  
+  - For male drivers, add £50 to the premium.  
+  - Add £75 to the premium for each previous accident.  
+  - If you have less than 3 years of driving experience, add £100 to the premium. If you have over 10 years of experience, subtract £50 from the premium.  
+  - Subtract £20 from the premium for each year of the no claims bonus.  
+  - Add £150 to the premium for sports cars and £75 for SUVs.  
+
+Ensure that the final calculated insurance premium is displayed in pounds (£).  
+
+Feel free to experiment with different factors and criteria.  
