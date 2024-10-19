@@ -1,0 +1,106 @@
+
+------------------------------------
+Name: ana
+Age: MP
+Gender: l
+Previous accidents: M
+Driving experiance: N
+Car Typel
+------------------------------------
+Name: bob
+Age: OO
+Gender: m
+Previous accidents: O
+Driving experiance: KO
+Car Type: sports
+------------------------------------
+Name: qdq
+Age: DD
+Gender: b
+Previous accidents: D
+Driving experiance: @D
+Car Type: hedgih
+------------------------------------
+Name: ere
+Age: 88
+Gender: p
+Previous accidents: 8
+Driving experiance: 48
+Car Type: vsruwv
+------------------------------------
+Name: dqd
+Age: 77
+Gender: o
+Previous accidents: 7
+Driving experiance: 37
+Car Type: urqtv
+------------------------------------
+Name: xkx
+Age: KK
+Gender: i
+Previous accidents: K
+Driving experiance: GK
+Car Type: olknp
+------------------------------------
+Name: fmf
+Age: 99
+Gender: q
+Previous accidents: 9
+Driving experiance: 59
+Car Type: wtsvx
+------------------------------------
+Name: cpc
+Age: 66
+Gender: n
+Previous accidents: 6
+Driving experiance: 26
+Car Type: tqpsu
+------------------------------------
+Name: xkx
+Age: KK
+Gender: i
+Previous accidents: K
+Driving experiance: GK
+Car Type: olknpo
+------------------------------------
+Name: pcp
+Age: CC
+Gender: a
+Previous accidents: C
+Driving experiance: ?C
+Car Type: gdcfhg
+------------------------------------
+Name: xkx
+Age: KK
+Gender: b
+Previous accidents: K
+Driving experiance: GK
+Car Type: olknpo
+------------------------------------
+Name: ivi
+Age: <<
+Gender: m
+Previous accidents: <
+Driving experiance: 8<
+Car Type: zwvya
+------------------------------------
+Name: fsf
+Age: 99
+Gender: q
+Previous accidents: 9
+Driving experiance: 59
+Car Type: wtsvx
+------------------------------------
+Name: ere
+Age: 88
+Gender: p
+Previous accidents: 8
+Driving experiance: 48
+Car Type: vsruw
+------------------------------------
+Name: obo
+Age: BB
+Gender: z
+Previous accidents: B
+Driving experiance: >B
+Car Type: fcbeg
