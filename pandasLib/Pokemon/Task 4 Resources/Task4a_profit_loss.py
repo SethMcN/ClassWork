@@ -153,7 +153,7 @@ def get_supplier():
             flag = True
 
         else:
-            if int(supplier) < 1 or int(supplier) > 16:
+            if int(supplier) < 1 or int(supplier) > len(suppliers):
                 print("Sorry, you did not enter a valid choice")
                 valid = True
             else:
